@@ -1,4 +1,4 @@
-
+alert("EDU.SITE");
 
 document.write ('<p><span id="date-time">', new Date().toLocaleString(), '<\/span><\/p>')
 if (document.getElementById) onload = function () {
